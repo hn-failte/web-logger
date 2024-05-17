@@ -1,0 +1,11 @@
+{
+  "extends": ["standard"],
+  "rules": {
+    "space-before-function-paren": "off",
+    "comma-dangle": "off",
+    "import/no-named-as-default": "off",
+    "@typescript-eslint/no-shadow": "warn",
+    "import/no-commonjs": "warn",
+    "import/no-mutable-exports": "warn"
+  }
+}
